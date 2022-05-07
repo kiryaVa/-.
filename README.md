@@ -3,7 +3,7 @@
     <body>
         <header class="aboba">
             <img id ="logo" src="/uploads/2020/12/logo_0_1607675596.svg" height="40px"/>
-            <b class="c">Внимание! Сезонные скидки 40%</b><a>Подробнее</a>
+            <b class="c"></b><a>Подробнее</a>
         </header>
         <main>
             <nav class="aboba">
